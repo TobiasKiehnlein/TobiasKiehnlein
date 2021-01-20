@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning game development in Unity
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:tobias@kiehnlein.com">tobias@kiehnlein.com</a>
-- 😄 Pronouns: self taught, motivated
+- 😄 Self taught and motivated progammer
 - ⚡ Fun fact: I always try to end lines with a semicolon... even in python...
 </td>
 <td>
