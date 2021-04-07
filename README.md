@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my smart home
 - 🌱 I’m currently learning game development in Unity
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="mailto:tobias@kiehnlein.com">tobias@kiehnlein.com</a>
+- 📫 How to reach me <a href="mailto:tobias@kiehnlein.com">via email</a> or <a href='https://kiehnlein.com/contact/'>online</a>
 - 😄 Self taught and motivated progammer
 - ⚡ Fun fact: I always try to end lines with a semicolon... even in python...
 </td>
